@@ -1,6 +1,6 @@
 # Agave API Swagger Specification for Araport
 
-[![Build Status](https://travis-ci.org/Arabidopsis-Information-Portal/araport-agave-spec.svg)](https://travis-ci.org/Arabidopsis-Information-Portal/araport-agave-spec)]
+[![Build Status](https://travis-ci.org/Arabidopsis-Information-Portal/araport-agave-spec.svg)(https://travis-ci.org/Arabidopsis-Information-Portal/araport-agave-spec)]
 
 Customizations for the Agave API Specification for Araport.
 

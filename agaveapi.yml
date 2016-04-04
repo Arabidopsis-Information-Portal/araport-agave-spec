@@ -3304,17 +3304,17 @@ securityDefinitions:
   oauth2_implicit:
     type: oauth2
     flow: implicit
-    authorizationUrl: 'https://api.araport.org/login'
+    authorizationUrl: 'https://araport-org.tenants.prod.agaveapi.co/login'
     scopes:
       PRODUCTION: catchall grant type for all api services.
   oauth2_authorization_code:
     type: oauth2
     flow: accessCode
-    authorizationUrl: 'https://api.araport.org/authorize'
-    tokenUrl: 'https://api.araport.org/token'
+    authorizationUrl: 'https://araport-org.tenants.prod.agaveapi.co/authorize'
+    tokenUrl: 'https://araport-org.tenants.prod.agaveapi.co/token'
     scopes:
       PRODUCTION: catchall grant type for all api services.
-host: api.araport.org
+host: araport-org.tenants.prod.agaveapi.co
 basePath: /
 schemes:
   - https
